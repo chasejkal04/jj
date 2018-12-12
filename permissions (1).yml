@@ -9,7 +9,7 @@ groups:
     - rtp.teleport
     - provotes.links
     - essentials.warps.nether
-    - crazyenchantments.limit.5
+    - crazyenchantments.limit.10
     - crazyenchantments.info
     - crazyenchantments.access
     - crazyenchantments.blacksmith
